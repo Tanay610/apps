@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "72744515413",
+    "project_id": "audio-video-chat-41ee0",
+    "storage_bucket": "audio-video-chat-41ee0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72744515413:android:9a80c6bf3243f07d60a1dc",
+        "android_client_info": {
+          "package_name": "com.cat.splitra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72744515413-62m7tj5s0r7p03ggpg29t1b6mc2rq68m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBopgz_zkFg8jcspXHTwYVlTdBlXzg3mvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72744515413-62m7tj5s0r7p03ggpg29t1b6mc2rq68m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "72744515413-7q64n564ns0d0nbrr3dkl7jdgu2l37et.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dbestech.chatty"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
